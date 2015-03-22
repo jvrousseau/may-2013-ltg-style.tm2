@@ -1,0 +1,28 @@
+_prefs: 
+  mapid: weatherdecisiontechnologies.e390740b
+  saveCenter: true
+_properties: 
+  bridge: 
+    "group-by": layer
+attribution: "<a href='https://www.mapbox.com/about/maps/' target='_blank'>&copy; Mapbox &copy; OpenStreetMap</a> <a class='mapbox-improve-map' href='https://www.mapbox.com/map-feedback/' target='_blank'>Improve this map</a>"
+bounds: 
+  - -180
+  - -85.0511
+  - 180
+  - 85.0511
+center: 
+  - -97.0313
+  - 25.483
+  - 3
+description: ''
+format: "png8:m=h"
+interactivity_layer: ''
+layers: null
+maxzoom: 22
+minzoom: 0
+name: 2013 May Lightning Strikes
+source: "mapbox:///weatherdecisiontechnologies.c2gmayltg"
+styles: 
+  - style.mss
+  - lightning.mss
+template: ''
