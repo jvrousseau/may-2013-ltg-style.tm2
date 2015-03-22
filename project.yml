@@ -11,15 +11,15 @@ bounds:
   - 180
   - 85.0511
 center: 
-  - -97.0313
-  - 25.483
-  - 3
+  - -101.8213
+  - 35.4965
+  - 6
 description: ''
 format: "png8:m=h"
 interactivity_layer: ''
 layers: null
 maxzoom: 22
-minzoom: 0
+minzoom: 6
 name: 2013 May Lightning Strikes
 source: "mapbox:///weatherdecisiontechnologies.c2gmayltg"
 styles: 

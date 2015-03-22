@@ -1,0 +1,120 @@
+- place_name: 2296 High Bridge Rd, Gatesville, 76528, Texas, United States
+  zoom: 4
+  center: 
+    - 31.50362930577303
+    - -97.55859375
+  tags: 
+    - userbookmark
+  index: 0
+- place_name: 2496 County Road 223, Collinsville, 76233, Texas, United States
+  zoom: 6
+  center: 
+    - 33.54139466898275
+    - -96.9873046875
+  tags: 
+    - userbookmark
+  index: 1
+- place_name: 19296 Midway Rd, Springer, 73458, Oklahoma, United States
+  zoom: 7
+  center: 
+    - 34.38877925439021
+    - -97.37182617187499
+  tags: 
+    - userbookmark
+  index: 2
+- place_name: 12500 Alameda Dr, Norman, 73026, Oklahoma, United States
+  zoom: 8
+  center: 
+    - 35.22318504970178
+    - -97.2509765625
+  tags: 
+    - userbookmark
+  index: 3
+- place_name: 1624 NE 31st St, Oklahoma City, 73111, Oklahoma, United States
+  zoom: 9
+  center: 
+    - 35.50092819950358
+    - -97.48168945312499
+  tags: 
+    - userbookmark
+  index: 4
+- place_name: 3920 W I 40 Service Rd, Oklahoma City, 73108, Oklahoma, United States
+  zoom: 10
+  center: 
+    - 35.45619556834375
+    - -97.58468627929688
+  tags: 
+    - userbookmark
+  index: 5
+- place_name: 6801 S Meridian Ave, Oklahoma City, 73159, Oklahoma, United States
+  zoom: 11
+  center: 
+    - 35.39968508271242
+    - -97.61558532714844
+  tags: 
+    - userbookmark
+  index: 6
+- place_name: 6700 SW 95th St, Oklahoma City, 73169, Oklahoma, United States
+  zoom: 12
+  center: 
+    - 35.37169492501455
+    - -97.6303482055664
+  tags: 
+    - userbookmark
+  index: 7
+- place_name: 6794 Quesada Dr, Oklahoma City, 73169, Oklahoma, United States
+  zoom: 13
+  center: 
+    - 35.39660664080375
+    - -97.62588500976562
+  tags: 
+    - userbookmark
+  index: 8
+- place_name: 6320 SW 74th St, Oklahoma City, 73169, Oklahoma, United States
+  zoom: 14
+  center: 
+    - 35.392618484487365
+    - -97.62579917907715
+  tags: 
+    - userbookmark
+  index: 9
+- place_name: 6320 SW 74th St, Oklahoma City, 73169, Oklahoma, United States
+  zoom: 15
+  center: 
+    - 35.39076427447322
+    - -97.62833118438719
+  tags: 
+    - userbookmark
+  index: 10
+- place_name: 6320 SW 74th St, Oklahoma City, 73179, Oklahoma, United States
+  zoom: 16
+  center: 
+    - 35.39188380259995
+    - -97.62792348861694
+  tags: 
+    - userbookmark
+  index: 11
+- place_name: 6320 SW 74th St, Oklahoma City, 73169, Oklahoma, United States
+  zoom: 17
+  center: 
+    - 35.39065931791458
+    - -97.63026237487793
+  tags: 
+    - userbookmark
+  index: 12
+- place_name: 24.9948, -84.9604
+  zoom: 17
+  center: 
+    - 24.994780795135277
+    - -84.96036529541014
+  tags: 
+    - userbookmark
+  index: 13
+- place_name: 24.9952, -84.9606
+  zoom: 18
+  center: 
+    - 24.995155170130364
+    - -84.96060132980347
+  tags: 
+    - userbookmark
+  index: 14

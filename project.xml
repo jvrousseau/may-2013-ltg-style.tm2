@@ -5,10 +5,10 @@
 <Parameters>
   <Parameter name="attribution"><![CDATA[<a href='https://www.mapbox.com/about/maps/' target='_blank'>&copy; Mapbox &copy; OpenStreetMap</a> <a class='mapbox-improve-map' href='https://www.mapbox.com/map-feedback/' target='_blank'>Improve this map</a>]]></Parameter>
   <Parameter name="bounds">-180,-85.0511,180,85.0511</Parameter>
-  <Parameter name="center">-97.0313,25.483,3</Parameter>
+  <Parameter name="center">-101.8213,35.4965,6</Parameter>
   <Parameter name="format">png8:m=h</Parameter>
   <Parameter name="maxzoom">22</Parameter>
-  <Parameter name="minzoom">0</Parameter>
+  <Parameter name="minzoom">6</Parameter>
   <Parameter name="name"><![CDATA[2013 May Lightning Strikes]]></Parameter>
   <Parameter name="source"><![CDATA[mapbox:///weatherdecisiontechnologies.c2gmayltg]]></Parameter>
 </Parameters>
@@ -100,33 +100,8 @@
     <MarkersSymbolizer width="1.15" opacity="0.4" allow-overlap="true" ignore-placement="true" stroke-opacity="0" />
   </Rule>
   <Rule>
-    <MaxScaleDenominator>25000000</MaxScaleDenominator>
     <MinScaleDenominator>12500000</MinScaleDenominator>
-    <MarkersSymbolizer width="0.98" opacity="0.43" allow-overlap="true" ignore-placement="true" stroke-opacity="0" />
-  </Rule>
-  <Rule>
-    <MaxScaleDenominator>50000000</MaxScaleDenominator>
-    <MinScaleDenominator>25000000</MinScaleDenominator>
-    <MarkersSymbolizer width="0.8" opacity="0.45" allow-overlap="true" ignore-placement="true" stroke-opacity="0" />
-  </Rule>
-  <Rule>
-    <MaxScaleDenominator>100000000</MaxScaleDenominator>
-    <MinScaleDenominator>50000000</MinScaleDenominator>
-    <MarkersSymbolizer width="0.65" opacity="0.5" allow-overlap="true" ignore-placement="true" stroke-opacity="0" />
-  </Rule>
-  <Rule>
-    <MaxScaleDenominator>200000000</MaxScaleDenominator>
-    <MinScaleDenominator>100000000</MinScaleDenominator>
-    <MarkersSymbolizer width="0.55" opacity="0.53" allow-overlap="true" ignore-placement="true" stroke-opacity="0" />
-  </Rule>
-  <Rule>
-    <MaxScaleDenominator>500000000</MaxScaleDenominator>
-    <MinScaleDenominator>200000000</MinScaleDenominator>
-    <MarkersSymbolizer width="0.47" opacity="0.55" allow-overlap="true" ignore-placement="true" stroke-opacity="0" />
-  </Rule>
-  <Rule>
-    <MinScaleDenominator>500000000</MinScaleDenominator>
-    <MarkersSymbolizer width="0.42" opacity="0.55" allow-overlap="true" ignore-placement="true" stroke-opacity="0" />
+    <MarkersSymbolizer allow-overlap="true" ignore-placement="true" stroke-opacity="0" width="1" opacity="0.2" />
   </Rule>
 </Style>
 <Layer name="mayc2gltg"
